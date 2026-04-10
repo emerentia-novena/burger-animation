@@ -1,4 +1,4 @@
-# 🍔 Burger Hover Animation
+# 🍔 Burger Animation
 
 A simple and smooth burger animation that comes to life when hovered over!
 
