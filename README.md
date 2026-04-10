@@ -1,5 +1,10 @@
-A Burger Animation that animates when hovered over!
+# 🍔 Burger Hover Animation
 
-https://github.com/user-attachments/assets/45f95155-7ffe-4f3d-a80d-b837aa8ac2ac
+A simple and smooth burger animation that comes to life when hovered over!
+
+## 🎬 Preview
+https://github.com/user-attachments/assets/44bdaf75-d8da-4a3d-93cb-776a8ce2e3f2
+
+
 
 
